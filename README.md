@@ -1,8 +1,5 @@
-# dataviz-story-template
+# USA Wealth Generation in South Hartford
 DataVizForAll.org story template using modified Bootstrap
 
-## Live view (replace with your own published link in Settings > Pages)
-https://datavizforall.github.io/dataviz-story-template/
-
-## Instructions
-Read steps inside the `index.html` file
+## Live View
+https://zig-zag32.github.io/USA-Wealth-Generation-in-South-Hartford/
